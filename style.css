@@ -52,3 +52,10 @@ ul {
 li {
     margin:16px 0 ;
 }
+
+
+
+.quote h2 {
+    line-height: 50px;
+    font-style: italic;
+}
