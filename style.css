@@ -5,7 +5,7 @@
 }
 body {
     text-align: center;
-    color: #333;
+    background-color: rgba(7, 7, 7, 0.918);
 }
 #main{
     margin: 30px 8px;
@@ -18,9 +18,11 @@ body {
     font-weight: bold;
     font-size: 40px;
     margin:20px 0;
+    color: white;
 }
 p {
     margin-bottom: 15px;
+    color: white;
 }
 #img-div {
     background: white;
@@ -34,12 +36,14 @@ img {
 
 #img-caption {
     margin: 15px 0;
+    color: white;
 }
 
 #tribute-info h2 {
     margin: 50px;
     text-align: center;
     font-weight: bold;
+    color: white;
 }
 
 ul {
@@ -51,6 +55,7 @@ ul {
 
 li {
     margin:16px 0 ;
+    color: white;
 }
 
 
@@ -58,4 +63,5 @@ li {
 .quote h2 {
     line-height: 50px;
     font-style: italic;
+    color: white;
 }
